@@ -8,7 +8,7 @@ export const addOneContact = async () => {
     const contact = createFakeContact();
     await writeContacts([...contacts, contact]);
   } catch (error) {
-    console.log('Error while add contacts.', error);
+    console.log('Error while add contact.', error);
   }
 };
 
