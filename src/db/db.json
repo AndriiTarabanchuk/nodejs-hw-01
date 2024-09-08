@@ -33,5 +33,26 @@
     "phone": "784.706.2636 x45007",
     "email": "Evan.Bahringer63@hotmail.com",
     "job": "Customer Interactions Designer"
+  },
+  {
+    "id": 7,
+    "name": "Angel",
+    "email": "abladder6@weebly.com",
+    "phone": "430-446-7653",
+    "job": "Statistician III"
+  },
+  {
+    "id": "f5da5647-caba-4a8e-8052-79f112933ca2",
+    "name": "Julia Pollich",
+    "phone": "938-936-9129",
+    "email": "Jamison1@hotmail.com",
+    "job": "Investor Integration Orchestrator"
+  },
+  {
+    "id": "b8f14182-d6f2-4429-97e3-1a497e89877a",
+    "name": "Archie Beier",
+    "phone": "1-258-687-4316 x8447",
+    "email": "Theresia87@hotmail.com",
+    "job": "Product Operations Technician"
   }
 ]
